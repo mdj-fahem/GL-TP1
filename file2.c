@@ -1,4 +1,4 @@
 int main() {
-    int f = fact(10);
+    int f = fac(10);
     printf("%d",f);
 }
